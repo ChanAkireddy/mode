@@ -7,7 +7,7 @@
 :Version: 1.18.2
 :Web: http://mode.readthedocs.org/
 :Download: http://pypi.org/project/mode
-:Source: http://github.com/ask/mode
+:Source: http://github.com/ChanAkireddy/mode
 :Keywords: async, service, framework, actors, bootsteps, graph
 
 What is Mode?
