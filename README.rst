@@ -428,6 +428,8 @@ Examples of unacceptable behavior by participants include:
   or electronic addresses, without explicit permission
 * Other unethical or unprofessional conduct.
 
+Support Mode:: 0xf208a17f6e17fbc0824b1aa7a1685ff00fdd44aa
+
 Project maintainers have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct. By adopting this Code of Conduct,
