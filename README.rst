@@ -5,8 +5,6 @@
 |build-status| |license| |wheel| |pyversion| |pyimp|
 
 :Version: 1.18.2
-:Web: http://mode.readthedocs.org/
-:Download: http://pypi.org/project/mode
 :Source: http://github.com/ChanAkireddy/mode
 :Keywords: async, service, framework, actors, bootsteps, graph
 
