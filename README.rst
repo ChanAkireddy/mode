@@ -467,5 +467,5 @@ version 1.2.0 available at http://contributor-covenant.org/version/1/2/0/.
     :alt: Supported Python implementations.
     :target: http://pypi.org/project/mode/
 
-Support Mode:: 0xf208a17f6e17fbc0824b1aa7a1685ff00fdd44aa
+
 
