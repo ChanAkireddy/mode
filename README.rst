@@ -466,6 +466,3 @@ version 1.2.0 available at http://contributor-covenant.org/version/1/2/0/.
 .. |pyimp| image:: https://img.shields.io/pypi/implementation/mode.svg
     :alt: Supported Python implementations.
     :target: http://pypi.org/project/mode/
-
-
-
